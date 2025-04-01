@@ -1,0 +1,25 @@
+{
+  "name": "csc-307-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BobBobbyB/csc-307-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BobBobbyB/csc-307-app/issues"
+  },
+  "homepage": "https://github.com/BobBobbyB/csc-307-app#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ]
+}
